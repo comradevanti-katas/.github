@@ -1,1 +1,1 @@
-# .github
+Hello. I put my coding exercises here. That means katas, demos, tests and advent of code. Have a look around if you want. Cheers.
